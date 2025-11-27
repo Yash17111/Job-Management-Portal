@@ -17,26 +17,4 @@ Employer dashboard
 
 Simple, clean UI
 
-🛠 Tech Stack
 
-Java / Servlet / JSP (or your specific stack)
-
-HTML.
-
-MySQL / Any DB
-
-Project Structure /src /models /controllers /views /database README.md
-
-How to Run
-
-Clone the repository
-
-Configure database
-
-Deploy on Tomcat/Java server
-
-Open the portal in browser
-
-Contribution
-
-Pull requests are welcome!
